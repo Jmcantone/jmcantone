@@ -23,7 +23,8 @@
 
 ### 📬 Contact me 
 
-####<em>jmcantone@gmail.com</em>
+#### <em>jmcantone@gmail.com</em>
+
 <a href="https://www.linkedin.com/in/juanmanuelcantone/" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Linkedin" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
