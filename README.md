@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2284F7&width=435&lines=Senior+Software+Engineer&center=true">
 </p>
 
-🌐 Full Stack Developer | 6+ Years Experience | Diverse Industries | Currently  Petrofac
+🌐 Full Stack Developer | 6+ Years Experience | Diverse Industries | Currently at Petrofac
 
 🔨 Passionate Full Stack Developer with 6 years of experience across energy, insurance, finance, and entertainment sectors. Committed to solving challenges and delivering innovative web application solutions. Currently, I'm a Senior Software Developer at Petrofac, developing new features for SkillsVX, a learning & competency management platform.
 
