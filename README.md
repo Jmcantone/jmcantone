@@ -10,10 +10,11 @@
 
 🚀 Past experiences include:
 
-Backend Developer at Divina Seguros: Increased sales agents' productivity with custom tools.
-Full Stack Developer at MyTaskPanel: Guided 2 devs in adopting new technologies for a financial web app.
-Full Stack Developer at Capgemini: Optimized & improved code for Zvartnots Airport web app.
-Web App Developer at Hipódromo y Casino de Palermo: Developed apps for asset management & intranet.
+- Backend Developer at Divina Seguros: Increased sales agents' productivity with custom tools.
+- Full Stack Developer at MyTaskPanel: Guided 2 devs in adopting new technologies for a financial web app.
+- Full Stack Developer at Capgemini: Optimized & improved code for Zvartnots Airport web app.
+- Web App Developer at Hipódromo y Casino de Palermo: Developed apps for asset management & intranet.
+
 🌍 Multilingual and multicultural experience, with effective communication in Spanish and English. Skilled in collaborating with diverse teams and backgrounds. Keen on assuming leadership roles and mentoring fellow developers.
 
 🔧 Always learning & staying up-to-date with the latest tech trends to maximize project value. Proud team player focused on shared goals and success.
