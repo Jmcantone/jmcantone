@@ -18,14 +18,6 @@ Web App Developer at Hipódromo y Casino de Palermo: Developed apps for asset ma
 
 🔧 Always learning & staying up-to-date with the latest tech trends to maximize project value. Proud team player focused on shared goals and success.
 
- 
- <p align="left">
-      <a href="https://www.linkedin.com/in/jjuanmanuelcantone/">
-         <img alt="Portfolio" title="Look at my portfolio" src="https://custom-icon-badges.demolab.com/badge/-Mi%20Portafolio-red?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
-        <a href="https://github.com/Jmcantone?tab=repositories">
-         <img alt="Repositories" title="Look at my repositorios" src="https://custom-icon-badges.demolab.com/badge/-Mis%20Repositorios-yellow?style=for-the-badge&logoColor=white&logo=repo"/></a>
-   </p>
-
 #
 
 ### 📬 Contact: <em>jmcantone@gmail.com</em>
