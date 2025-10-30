@@ -7,17 +7,17 @@
 🌐 **Senior .NET & Azure Engineer | 8+ Years of Experience | Cloud-Ready, Scalable Solutions**
 
 I'm a passionate **.NET Developer** with 8+ years of experience delivering **reliable, high-performance applications** across tourism, energy, insurance, and finance industries.  
-Currently, I'm part of **TUI Group**, building and maintaining scalable **Azure-based integrations and Blazor applications** that improve booking reliability and operational efficiency.
+Currently, I'm part of **TUI Group**, building **.NET services to integrate tourism providers (accommodation, transport, activities)** and **internal Blazor tools** for monitoring and early issue detection, improving booking reliability and service health.
 
 ---
 
 ### 🚀 Highlights
 
-- 🧩 **TUI Group** — Built resilient .NET services improving booking stability and third-party API integrations.  
-- ⚡ **Petrofac** — Delivered new features for a competency management SaaS, enhancing Azure CI/CD workflows.  
-- 🧠 **Divina Seguros** — Integrated Microsoft Graph (Teams, Planner, Outlook) to streamline sales operations.  
-- 🏗️ **MyTaskPanel Consulting** — Led migration to .NET Core and modern front-end stack, boosting maintainability.  
-- 🛫 **Capgemini / Zvartnots Airport** — Developed multilingual, responsive interfaces improving passenger experience.  
+- 🧩 **TUI Group** — .NET services for third-party provider integrations and **Blazor** tools for service monitoring, increasing booking stability.  
+- ⚡ **Petrofac** — Delivered features for a competency management SaaS and improved **CI/CD** workflows for smoother, more frequent releases.  
+- 🧠 **Divina Seguros** — Integrated **Microsoft Graph** (Teams, Planner, Outlook) to streamline sales operations.  
+- 🏗️ **MyTaskPanel Consulting** — Led migration to **.NET Core** and a modern front-end stack, boosting maintainability.  
+- 🛫 **Capgemini / Zvartnots Airport** — Built multilingual, responsive interfaces improving passenger experience.  
 
 ---
 
